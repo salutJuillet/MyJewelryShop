@@ -229,11 +229,11 @@ function op2Change(e) {
                    <span>${vals[2]} / ${vals[0]}</span>
                 </div>
                 <div class='addbox'>
-                    <div id='count'>0</div>
-                    <div class='crease'>
+                    <div id='count'>1</div>
+                    <!--<div class='crease'>
                         <button id='add' onclick='add()'><i class='fa-solid fa-caret-up'></i></button>
                         <button id='subtract' onclick='subtract()'><i class='fa-solid fa-caret-down'></i></button>
-                    </div>
+                    </div>-->
                 </div>
                 <div class='prbox'>
                     ${priceToString(Number(pprice) + Number(vals[1]))}원 <br>
