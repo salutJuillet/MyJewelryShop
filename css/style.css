@@ -217,6 +217,7 @@ ul.gnb li.first{
     width:50px;
     /* border-right:1px solid #ddd; */
     border-left:1px solid #ddd;
+    border-right:1px solid #ddd;
 }
 li.first{
     padding-top:5px;
@@ -268,6 +269,7 @@ ul.all{
     width:100%;
     text-transform: uppercase;
     display:none;
+    z-index: 10;
 }
 ul.all>li{
     width:14%;
@@ -309,6 +311,7 @@ ul.lnb{
     list-style:none;
     margin:0;
     padding:0;
+    background-color: #fff;
     border-left:1px solid #eee;
     border-right:1px solid #eee;
     border-bottom:1px solid #eee;
@@ -319,6 +322,7 @@ ul.lnb{
     left:calc(50% - 65px);
     width:130px;
     display:none;
+    z-index: 10;
 }
 ul.lnb>li{
     line-height:20px;
