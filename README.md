@@ -1,14 +1,15 @@
 <!--
-# my Jewelry Shop
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salutJuillet&layout=compact)](https://github.com/salutJuillet/myJewelryShop)
+# My Jewelry Shop
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salutJuillet&layout=compact)](https://github.com/salutJuillet/MyJewelryShop)
 -->
 
 
 <!-- ABOUT THE PROJECT -->
-# my Jewelry Shop
+# My Jewelry Shop
 
 <div align="center">
-  <img src="images/preview.png" width="800px"/>
+  <img src="images/preview.png" width="800px"/> <br/>
+  <a href="https://youtu.be/ljZ642h8ybU" target="_blank">https://youtu.be/ljZ642h8ybU</a>
 </div>
 
 <br/><br/>
